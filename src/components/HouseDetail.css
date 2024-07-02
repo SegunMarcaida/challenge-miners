@@ -41,3 +41,15 @@
 .house-detail {
     color: #ffcc00;
 }
+.house-detail a {
+    text-decoration: none;
+    color: #ffcc00;
+    font-weight: bold;
+    font-size: 1.5em;
+    transition: color 0.3s;
+}
+
+.house-detail a:hover {
+    color: #e6b800;
+    text-shadow: 2px 2px 5px #000;
+}
