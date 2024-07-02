@@ -1,8 +1,8 @@
 {
-  "name": "challengeminers",
+  "name": "challenge-miners",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SegunMarcaida.github.io/challenge_miners",
+  "homepage": "https://SegunMarcaida.github.io/challenge-miners",
 
   "dependencies": {
     "@amplitude/analytics-browser": "^2.9.3",
