@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/challenge-miners/static/css/main.57a782b6.css",
+    "main.js": "/challenge-miners/static/js/main.7c32d13c.js",
+    "index.html": "/challenge-miners/index.html",
+    "main.57a782b6.css.map": "/challenge-miners/static/css/main.57a782b6.css.map",
+    "main.7c32d13c.js.map": "/challenge-miners/static/js/main.7c32d13c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57a782b6.css",
+    "static/js/main.7c32d13c.js"
+  ]
+}
