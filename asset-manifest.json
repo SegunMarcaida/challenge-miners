@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/challenge-miners/static/css/main.c261d28f.css",
-    "main.js": "/challenge-miners/static/js/main.16c2320a.js",
+    "main.js": "/challenge-miners/static/js/main.c8da6586.js",
     "index.html": "/challenge-miners/index.html",
     "main.c261d28f.css.map": "/challenge-miners/static/css/main.c261d28f.css.map",
-    "main.16c2320a.js.map": "/challenge-miners/static/js/main.16c2320a.js.map"
+    "main.c8da6586.js.map": "/challenge-miners/static/js/main.c8da6586.js.map"
   },
   "entrypoints": [
     "static/css/main.c261d28f.css",
-    "static/js/main.16c2320a.js"
+    "static/js/main.c8da6586.js"
   ]
 }
